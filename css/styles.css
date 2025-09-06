@@ -321,18 +321,19 @@ header .container {
 }
 
 .team-block {
-    padding: 32px 0;
+    padding: 32px 0 0 0;
 }
 
-.block-social {
+/* .block-social {
     padding: 32px 0;
 
-}
+} */
 
 .social-list {
     display: flex;
     justify-content: center;
     gap: 24px;
+    padding: 8px 0 32px 0;
 }
 
 .social-item {
